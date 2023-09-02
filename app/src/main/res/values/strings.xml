@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BUTTON</string>
+    <string name="button_click2">Two Click</string>
+    <string name="button_click">On Click</string>
+    <string name="massage_knopka1">Massage 1</string>
+    <string name="massage_knopka2">Massage 2</string>
+</resources>
